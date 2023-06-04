@@ -1,5 +1,5 @@
-# dimRed
-pythoon, scala, and pyspark code for few dimensional reduction algorithms
+# a project to win in CNCS2021 | Cognitive Neuroscience Competition
+
 
 
 
